@@ -1,0 +1,4 @@
+# clasp push 時に含めないファイル（.gs / appsscript.json 以外）
+**/*.md
+.git/**
+node_modules/**
